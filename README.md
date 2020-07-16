@@ -29,9 +29,7 @@ BgInfo will now run on startup.
 -----------------------------------------------------------------------------------------------------------------
 
 Adding a Custom Field:
-
 ![BgInfo TeamViewer Id](bginfo-tm-id-add-custom-field.png)
 
 End result:
-
-![BgInfo TeamViewer Id Custom Field](bginfo-tm-id.png)
+![BgInfo TeamViewer Id Custom Field](...)
