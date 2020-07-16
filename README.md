@@ -1,6 +1,9 @@
 # bginfo_teamviewer_id
 ## Show your Teamviewer ID on the desktop with BgInfo.
 
+Download BgInfo from:
+https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo
+
 PowerShell command: *(Run as Administrator)*
 ```powershell
 (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Wow6432Node\TeamViewer').ClientID | Out-File -FilePath c:\teamviewerid.txt
