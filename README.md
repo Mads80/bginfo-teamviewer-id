@@ -11,6 +11,7 @@ Fetches the TeamViewer ID from registry and saves it into a .txt file.
 -----------------------------------------------------------------------------------------------------------------
 
 Navigate to "*shell:startup*".
+
 ![BgInfo TeamViewer Id Shell Startup](bginfo-tm-id-shell-startup.png)
 
 Create a new shortcut and add following:
