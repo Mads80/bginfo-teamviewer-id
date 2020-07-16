@@ -15,6 +15,6 @@ C:\Users\mfi\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
 
 -----------------------------------------------------------------------------------------------------------------
 
-!(https://github.com/Mads80/bginfo_teamviewer_id/blob/master/bginfo-tm-id-custom-field.png)
+![BgInfo TeamViewer Id](https://github.com/Mads80/bginfo_teamviewer_id/blob/master/bginfo-tm-id-custom-field.png)
 
-!(https://github.com/Mads80/bginfo_teamviewer_id/blob/master/bginfo-tm-id.png)
+![BgInfo TeamViewer Id Custom Field](https://github.com/Mads80/bginfo_teamviewer_id/blob/master/bginfo-tm-id.png)
