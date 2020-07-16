@@ -1,9 +1,9 @@
 # bginfo_teamviewer_id
+
 ## Show your Teamviewer ID on the desktop with BgInfo.
 
-Download BgInfo:
 
-https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo
+Download BgInfo: https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo
 
 -----------------------------------------------------------------------------------------------------------------
 
