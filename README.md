@@ -4,6 +4,8 @@
 Download BgInfo from:
 https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo
 
+-----------------------------------------------------------------------------------------------------------------
+
 PowerShell command: *(Run as Administrator)*
 ```powershell
 (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Wow6432Node\TeamViewer').ClientID | Out-File -FilePath c:\teamviewerid.txt
