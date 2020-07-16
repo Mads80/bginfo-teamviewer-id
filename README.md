@@ -14,3 +14,7 @@ Navigate to "shell:startup". Create a new shortcut and add following:
 C:\Users\mfi\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
 
 -----------------------------------------------------------------------------------------------------------------
+
+bginfo-tm-id-custom-field.png
+
+bginfo-tm-id.png
