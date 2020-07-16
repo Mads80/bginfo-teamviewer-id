@@ -1,5 +1,5 @@
 # bginfo_teamviewer_id
-**Show your Teamviewer ID on the desktop with BgInfo.**
+## Show your Teamviewer ID on the desktop with BgInfo.
 
 PowerShell command: *(Run as Administrator)*
 ```powershell
