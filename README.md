@@ -3,7 +3,7 @@
 
 PowerShell command: *(Run as Administrator)*
 
-(Get-ItemProperty -Path 'HKLM:\SOFTWARE\Wow6432Node\TeamViewer').ClientID | Out-File -FilePath c:\teamviewid.txt
+(Get-ItemProperty -Path 'HKLM:\SOFTWARE\Wow6432Node\TeamViewer').ClientID | Out-File -FilePath c:\teamviewerid.txt
 
 Fetches the TeamViewer ID from registry and saves it into a .txt file.
 
