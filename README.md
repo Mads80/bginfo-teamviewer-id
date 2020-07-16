@@ -20,7 +20,7 @@ Navigate to "*shell:startup*".
 
 ![BgInfo TeamViewer Id Shell Startup](bginfo-tm-id-shell-startup.png)
 
-Create a new shortcut and add following:
+Create a new shortcut and add the following:
 ```
 C:\Users\***\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
 ```
