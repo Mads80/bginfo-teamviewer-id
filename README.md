@@ -22,7 +22,7 @@ C:\Users\mfi\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
 
 Adding a Custom Field:
 
-![BgInfo TeamViewer Id](...)
+![BgInfo TeamViewer Id](bginfo-tm-id-add-custom-field.png)
 
 End result:
 
