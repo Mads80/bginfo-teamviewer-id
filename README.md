@@ -24,6 +24,8 @@ Create a new shortcut and add following:
 ```
 C:\Users\***\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
 ```
+BgInfo will now run on startup.
+
 -----------------------------------------------------------------------------------------------------------------
 
 Adding a Custom Field:
