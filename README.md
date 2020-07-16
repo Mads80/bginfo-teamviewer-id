@@ -10,12 +10,13 @@ Fetches the TeamViewer ID from registry and saves it into a .txt file.
 
 -----------------------------------------------------------------------------------------------------------------
 
-Navigate to "*shell:startup*". Create a new shortcut and add following:
-
+Navigate to "*shell:startup*".
 ![BgInfo TeamViewer Id Shell Startup](bginfo-tm-id-shell-startup.png)
 
+Create a new shortcut and add following:
+```
 C:\Users\mfi\bin\Bginfo64.exe config.bgi /timer:0 /nolicprompt /silent /taskbar
-
+```
 -----------------------------------------------------------------------------------------------------------------
 
 ![BgInfo TeamViewer Id](bginfo-tm-id-custom-field.png)
