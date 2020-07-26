@@ -1,4 +1,4 @@
-# :octocat: bginfo_teamviewer_id
+# :fleur_de_lis: bginfo_teamviewer_id
 
 ## Show your Teamviewer ID on the desktop with BgInfo.
 
